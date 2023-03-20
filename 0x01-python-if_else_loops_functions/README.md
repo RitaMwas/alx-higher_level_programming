@@ -72,8 +72,7 @@ A function that checks for lowercase character.
 * Returns `False`otherwise
 * You are not allowed to import any module
 * You are not allowed to use `str.upper()` and `str.isupper()`
-<br>
-You don’t need to understand `__import__`
+* You don’t need to understand `__import__`
 ## 8-uppercase.py
 A function that prints a string in uppercase followed by a new line.
 * Prototype: `def uppercase(str):`
@@ -81,29 +80,25 @@ A function that prints a string in uppercase followed by a new line.
 * You can only use one loop in your code
 * You are not allowed to import any module
 * You are not allowed to use `str.upper()` and `str.isupper()`
-<br>
-You don’t need to understand `__import__`
-## 9-print_last\_digit.py
+* You don’t need to understand `__import__`
+## 9-print\_last\_digit.py
 A function that prints the last digit of a number.
 * Prototype: `def print_last_digit(number):`
 * Returns the value of the last digit
 * You are not allowed to import any module
-<br>
-You don’t need to understand `__import__`
+* You don’t need to understand `__import__`
 ## 10-add.py
 A function that adds two integers and returns the result.
 * Prototype: `def add(a, b):`
 * Returns the value of `a + b`
 * You are not allowed to import any module
-<br>
-You don’t need to understand `__import__`
+* You don’t need to understand `__import__`
 ## 11-pow.py
 A function that computes `a` to the power of `b` and return the value.
 * Prototype: `def pow(a, b):`
 * Returns the value of `a ^ b`
 * You are not allowed to import any module
-<br>
-You don’t need to understand `__import__`
+* You don’t need to understand `__import__`
 ## 12-fizzbuzz.py
 A function that prints the numbers from 1 to 100 separated by a space.
 * For multiples of three print `Fizz` instead of the number and for multiples of five print `Buzz`
@@ -111,5 +106,4 @@ A function that prints the numbers from 1 to 100 separated by a space.
 * Prototype: `def fizzbuzz():`
 * Each element should be followed by a space
 * You are not allowed to import any module
-<br>
-You don’t need to understand `__import__`
+* You don’t need to understand `__import__`
